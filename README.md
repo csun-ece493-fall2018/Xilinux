@@ -31,6 +31,7 @@ It may need 1 hour and 15 seconds to finish burning. I forgot to try put "r" in 
 After burning, you can only be able to see one SD card's partition in Mac OS X, capacity ~15 MB, with file "uImage" in there. 
 
 Then we need the bitstream file, xillydemo.bit, can be found in this repo, /vivado/xillydemo.runs/impl_1/
+
 We also need boot.bin and devicetree.dtb files can be found in the folder "bootfiles" from the zip in "Some extra files: " 
 
 Put xillydemo.bit, boot.bin, devicetree.dtb files in the partition where "uImage" is. Then insert the SD card back to Zedboard, and you should be good to go. 
