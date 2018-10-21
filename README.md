@@ -11,7 +11,7 @@ Manual: http://xillybus.com/downloads/doc/xillybus_getting_started_zynq.pdf
 
 The manual shows how to put our design in this Linux. 
 
-# How to setup linux for Zedboard
+# How to setup Linux for Zedboard
 To burn Linux Image file into SD card (not recommend do in Linux, somehow after burning, Linux does NOT recognize SD's Linux partition's file system): (Following commands can be performed in Terminal in Mac OS X. Assume the file is downloaded into the folder "Downloads")
 
 ```cd ~/Downloads/```
