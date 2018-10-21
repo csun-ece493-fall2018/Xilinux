@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Sat Oct 20 15:54:48 2018
+# Process ID: 7420
+# Current directory: C:/Users/xf464458/Downloads/xillinux-eval-zedboard-2.0c/xillinux-eval-zedboard-2.0c/vhdl/vivado/xillydemo.runs/fifo_8x2048_synth_1
+# Command line: vivado.exe -log fifo_8x2048.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source fifo_8x2048.tcl
+# Log file: C:/Users/xf464458/Downloads/xillinux-eval-zedboard-2.0c/xillinux-eval-zedboard-2.0c/vhdl/vivado/xillydemo.runs/fifo_8x2048_synth_1/fifo_8x2048.vds
+# Journal file: C:/Users/xf464458/Downloads/xillinux-eval-zedboard-2.0c/xillinux-eval-zedboard-2.0c/vhdl/vivado/xillydemo.runs/fifo_8x2048_synth_1\vivado.jou
+#-----------------------------------------------------------
+source fifo_8x2048.tcl -notrace
