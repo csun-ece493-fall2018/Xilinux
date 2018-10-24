@@ -14,4 +14,4 @@
 
 3. The name for gclk is ```clk_100```
 
-After putting our project in the system.v, we just need to generate an new bitstream file. Then the integration finished. 
+After adding our own project in the system.v, we just need to generate an new bitstream file. Then the integration finished. 
