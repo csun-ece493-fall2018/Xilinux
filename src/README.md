@@ -1,4 +1,4 @@
-# So far what have I found out
+# So far what I've found out to integrate our project with Linux
 
 1. PS_GPIO[55:24] are JA-JD. 
 
