@@ -10,6 +10,12 @@
   
     JD. JD(1P, 1N, 2P, 2N, 3P, 3N, 4P, 4N) [48-55]
   
+    LED. LD(0-3) = GPIO_LED[0-3], LD(4-7) = PS_GPIO[7-10]
+    
+    Switches. SW(0-7) = PS_GPIO[11-18]
+    
+    Push Buttons. BTN(C, D, L, R, U) = PS_GPIO[23, 22, 19, 20, 21]
+    
 2. We can put our project in system.v (Verilog), the port name in system.v is processing_system7_0_GPIO [55:0], which is connected to PS_GPIO
 
 3. The name for gclk is ```clk_100```
